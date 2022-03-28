@@ -1,1 +1,1 @@
-workук: npm start
+worker: npm start
